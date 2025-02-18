@@ -12,3 +12,6 @@ Initialized empty Git repository for Balirwa Alvin Daniel
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] List syntax is a must
+- [x] This item has been completed
+- [ ] This item is not complete
